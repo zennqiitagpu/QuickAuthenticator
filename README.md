@@ -3,6 +3,8 @@
 A lightweight two-factor authentication (2FA) app for Android.  
 Generates TOTP and HOTP one-time passwords fully on-device — no internet connection required.
 
+<img width="256" height="256" alt="ic_launcher 512x512" src="https://github.com/user-attachments/assets/5c50f7b9-5b81-4c3b-a314-00b69cc28922" />
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zennqiitagpu)
 
 ---
