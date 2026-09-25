@@ -8,6 +8,9 @@ Supports an **overlay** on top of other apps so you can view and copy codes with
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zennqiitagpu)
 
+<img width="" height="512" alt="image" src="https://github.com/user-attachments/assets/1975a4ce-de06-4933-b314-c486c9535cc3" />
+<img width="" height="512" alt="image" src="https://github.com/user-attachments/assets/7272ad76-2a55-4b76-bc19-6c1c22d4c609" />
+
 ---
 
 ## Features
